@@ -34,7 +34,6 @@ public class BookService {
     public List<Book> searchBooks(String query) {
         List<Book> books = new ArrayList<>();
         try {
-            // Codificar a query para URL
             String encodedQuery = java.net.URLEncoder.encode(query, "UTF-8");
 
             HttpClient client = HttpClient.newHttpClient();

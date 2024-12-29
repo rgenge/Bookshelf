@@ -102,7 +102,6 @@ public class BookshelfApplication implements CommandLineRunner {
                         break;
 
                     case "3":
-                        // Código para listar livros por linguagem
                         System.out.println("\nDigite a linguagem do livro que deseja buscar (ou 'sair' para encerrar):");
                         String languages = reader.readLine();
                         System.out.println("Você digitou: " + languages);

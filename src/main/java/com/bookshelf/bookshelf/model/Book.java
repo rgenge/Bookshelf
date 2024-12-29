@@ -28,7 +28,6 @@ public class Book {
     )
     private List<Author> authors = new ArrayList<>();
 
-    // Constructors
     public Book() {
     }
 
@@ -36,7 +35,6 @@ public class Book {
         this.title = title;
     }
 
-    // Getters and Setters
     public int getId() {
         return id;
     }

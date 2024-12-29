@@ -31,7 +31,6 @@ public class Author {
         this.deathYear = deathYear;
     }
 
-    // Getters and setters
     public Long getDbId() {
         return dbId;
     }
