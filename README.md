@@ -24,9 +24,8 @@ This project uses the Maven Wrapper, which enables users to build and run the pr
 ## `Adding books`
 ![2](https://github.com/user-attachments/assets/9d743534-2f95-4980-ad81-89c1ed5e8c1d)
 
-## `GEtting topics by id `
-![image](https://github.com/user-attachments/assets/74dac1dd-3405-4a48-8698-0758b5a2669e)
-
+## `Sorting Authors By Date of Birth`
+![3](https://github.com/user-attachments/assets/cefc9317-5114-4f63-9147-68249edae46d)
 
 ## `Sorting Authors Books by Language`
 ![4](https://github.com/user-attachments/assets/9fcd6b81-2592-4d53-9428-95284298b849)
